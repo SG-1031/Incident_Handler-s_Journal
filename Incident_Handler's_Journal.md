@@ -2,11 +2,6 @@
 
 ---
 
-## Entry 1
-
-**Date:** May 23, 2025  
-**Entry Number:** 1
-
 ### Description
 This entry documents a ransomware attack on a small U.S. healthcare clinic that disrupted operations and encrypted critical patient data. The incident was triggered by a phishing email containing a malicious attachment.
 
